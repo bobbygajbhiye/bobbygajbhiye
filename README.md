@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bobby Gajbhiye
 - 👀 I’m Machine Learning Engineer at Infosys
-- 🌱 I’m currently working on Data Science Projects
+- 🌱 I have been working for 2 years on Data Science projects. I have 3 years of Oracle DBA SQL background.
 - 📫 Please contact me at bobbygajbhiye@ymail.com

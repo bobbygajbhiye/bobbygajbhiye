@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bobby Gajbhiye
-- 👀 I’m Machine Learning Enginneer at Infosys
+- 👀 I’m Machine Learning Engineer at Infosys
 - 🌱 I’m currently working on Data Science Projects
 - 📫 Please contact me at bobbygajbhiye@ymail.com
